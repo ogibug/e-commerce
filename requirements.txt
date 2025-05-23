@@ -1,0 +1,5 @@
+Flask
+Flask-MySQLdb
+pymongo
+flask-bcrypt
+Flask-Login
